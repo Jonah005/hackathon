@@ -1,0 +1,12 @@
+{
+  "ndvi_mean_2018": 0.6393,
+  "ndvi_mean_2024": 0.6748,
+  "ndvi_mean_diff": 0.0355,
+  "loss_threshold": -0.15,
+  "gain_threshold": 0.15,
+  "loss_pixels": 592,
+  "gain_pixels": 54957,
+  "pixel_area_m2": null,
+  "loss_area_m2": null,
+  "gain_area_m2": null
+}
